@@ -1,0 +1,8 @@
+.venv/
+.idea/
+.vscode/
+.env
+**/__pycahe__/
+DS_Store
+converted_files/
+files_to_convert/
